@@ -5,11 +5,8 @@
 📚 Atualmente estudando HTML, CSS, JavaScript e React  
 ✨ Interessada em criar interfaces modernas, acessíveis e funcionais  
 
----
-
 ## 🚀 Tecnologias
-
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Maria-HTML" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -26,11 +23,10 @@
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
----
 
 ## 📌 Projeto em destaque
 
-### 🌍 Pour-Partout-Projeto-HTMLS-CS
+### 👜 Pour-Partout
 Projeto desenvolvido com foco em HTML e CSS para prática de desenvolvimento web e criação de interfaces.
 
 🔗 Repositório:
@@ -42,12 +38,11 @@ https://github.com/marialicas/Pour-Partout-Projeto-HTMLS-CS
 
 <div align="center">
   <a href="https://github.com/marialicas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marialicas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialicas&layout=compact&langs_count=7&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marialicas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialicas&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
 
----
 
 ## 🌐 Redes sociais
 
@@ -55,10 +50,4 @@ https://github.com/marialicas/Pour-Partout-Projeto-HTMLS-CS
   <a href="https://www.linkedin.com/in/marialicas/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
-
----
-
-<div align="center">
-  <i>"Always learning and building new things."</i>
 </div>
