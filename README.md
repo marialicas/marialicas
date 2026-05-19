@@ -6,22 +6,13 @@
 ✨ Interessada em criar interfaces modernas, acessíveis e funcionais  
 
 ## 🚀 Tecnologias
-<div style="display: flex"><br>
-  <img align="center" alt="Maria-HTML" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="Maria-CSS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="Maria-JS" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
-  <img align="center" alt="Maria-React" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  <img align="center" alt="Maria-Figma" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
+<p>
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Figma" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</p>
 
 
 ## 📌 Projeto em destaque
@@ -31,18 +22,6 @@ Projeto desenvolvido com foco em HTML e CSS para prática de desenvolvimento web
 
 🔗 Repositório:
 https://github.com/marialicas/Pour-Partout-Projeto-HTMLS-CS
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/marialicas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marialicas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialicas&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
-
 
 ## 🌐 Redes sociais
 
