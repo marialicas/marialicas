@@ -17,11 +17,11 @@
 
 ## 📌 Projeto em destaque
 
-### 👜 Pour-Partout
+### 📂 Pórtidolio
 Projeto desenvolvido com foco em HTML e CSS para prática de desenvolvimento web e criação de interfaces.
 
 🔗 Repositório:
-https://github.com/marialicas/Pour-Partout-Projeto-HTMLS-CS
+https://github.com/marialicas/Portifolio
 
 ## 🌐 Redes sociais
 
