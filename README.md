@@ -17,7 +17,7 @@
 
 ## 📌 Projeto em destaque
 
-### 📂 Pórtidolio
+### 📂 Pórtifolio Online
 Projeto desenvolvido com foco em HTML e CSS para prática de desenvolvimento web e criação de interfaces.
 
 🔗 Repositório:
